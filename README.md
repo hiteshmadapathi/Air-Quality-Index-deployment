@@ -1,1 +1,1 @@
-# AQI-deploymeny
+# AQI-deployment
